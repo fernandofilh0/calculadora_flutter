@@ -1,17 +1,31 @@
-# calculadora_basica
+# 🧮 Calculadora Flutter
 
-A new Flutter project.
+Aplicativo de calculadora desenvolvido em **Flutter** como atividade acadêmica da disciplina de **Desenvolvimento para Dispositivos Móveis**.
 
-## Getting Started
+O projeto tem como objetivo aplicar os conceitos de **Gerenciamento de Estado** utilizando `StatefulWidget` e `setState()` para atualizar a interface conforme o usuário realiza as operações.
 
-This project is a starting point for a Flutter application.
+## ⚙️ Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Adição
+- ➖ Subtração
+- ✖️ Multiplicação
+- ➗ Divisão
+- 🧹 Limpeza dos valores
+- ⚠️ Tratamento de divisão por zero
+- 🔄 Atualização dinâmica do resultado
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tecnologias utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**
+- **Dart**
+- **StatefulWidget**
+- **setState()**
+- **Material Design**
+
+## 🎯 Objetivo
+
+Praticar o gerenciamento de estado no Flutter, permitindo que o aplicativo responda às interações do usuário e atualize sua interface de forma dinâmica.
+
+## 📱 Projeto
+
+Este projeto foi desenvolvido para fins acadêmicos e faz parte dos estudos de desenvolvimento de aplicativos móveis com Flutter.
